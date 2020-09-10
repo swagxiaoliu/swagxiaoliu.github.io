@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: heiheiheihei
+subtitle: what are you doing?
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### Concealment
+``` 我是藏匿于这个世界上偷偷喜欢你的小鬼  ```  
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
