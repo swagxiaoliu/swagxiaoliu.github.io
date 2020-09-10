@@ -1,5 +1,5 @@
 ---
-layout: 小刘是个弟弟
+layout: page
 title: heiheiheihei
 subtitle: My name is swagxiaoliu
 sitemap:
