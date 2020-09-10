@@ -1,14 +1,14 @@
 # Site settings
 title: 小刘是个弟弟
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://swagxiaoliu.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: swagxiaoliu
-  github: swagxiaoliu.github.io
+  github: https://swagxiaoliu.github.io
   linkedin: linkedin
   email: example@email.com
 
